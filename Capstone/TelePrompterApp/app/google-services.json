@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "540739043500",
+    "firebase_url": "https://teleprompter-8d07d.firebaseio.com",
+    "project_id": "teleprompter-8d07d",
+    "storage_bucket": "teleprompter-8d07d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540739043500:android:0722f3ebd0e7fad8",
+        "android_client_info": {
+          "package_name": "capstone.ioannispriovolos.udacity.teleprompter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540739043500-gdl59sop28gh9tbvtdgl2fisg645t26p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwj-BFQ8DGHHGPJwAJb1PDKwFePRjs_M8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

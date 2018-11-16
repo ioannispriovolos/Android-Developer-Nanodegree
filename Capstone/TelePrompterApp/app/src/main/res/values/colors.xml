@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#53a9ff</color>
+    <color name="colorPrimaryDark">#007acb</color>
+    <color name="colorAccent">#FFFF9800</color>
+    <color name="colorText">#a9aba7</color>
+    <color name="material_color_white">#ffffff</color>
+    <color name="card_custom_background">#fff</color>
+    <color name="snackbar_cannot_remove">#ffff00</color>
+
+    <color name="white">#ffffff</color>
+    <color name="red">#db3328</color>
+    <color name="yellow">#ffe200</color>
+    <color name="orange">#FFA500</color>
+    <color name="black">#1D130D</color>
+    <color name="blue">#849dd3</color>
+    <color name="green">#86CECE</color>
+</resources>

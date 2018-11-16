@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4fab5b</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#dc143c</color>
+    <color name="empty_view_text_color">#4fab5b</color>
+    <color name="text_color_for_movie_overview">@android:color/black</color>
+    <color name="text_color_for_review_content">@android:color/black</color>
+    <color name="red">#F44336</color>
+    <color name="colorLight">#ffecca</color>
+    <color name="colorEmerald">#4fab5b</color>
+    <color name="colorCeramic">#dc143c</color>
+    <color name="lightText">#ffffff</color>
+</resources>

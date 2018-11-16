@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">TelePrompter</string>
+
+    <string name="pref_text_color_label">Text Color</string>
+    <string name="pref_text_color_key">text_color</string>
+    <string name="pref_bg_color_label">Background Color</string>
+    <string name="pref_bg_color_key">bg_color</string>
+
+    <!-- Color labels -->
+    <string name="pref_color_label_red">Red</string>
+    <string name="pref_color_label_blue">Blue</string>
+    <string name="pref_color_label_green">Green</string>
+    <string name="pref_color_label_white">White</string>
+    <string name="pref_color_label_yellow">Yellow</string>
+    <string name="pref_color_label_black">Black</string>
+    <string name="pref_color_label_orange">Orange</string>
+
+    <!-- Color SharedPreferences -->
+    <string name="pref_color_red_value" translatable="false">red</string>
+    <string name="pref_color_blue_value" translatable="false">blue</string>
+    <string name="pref_color_green_value" translatable="false">green</string>
+    <string name="pref_color_white_value" translatable="false">white</string>
+    <string name="pref_color_black_value" translatable="false">black</string>
+    <string name="pref_color_yellow_value" translatable="false">yellow</string>
+    <string name="pref_color_orange_value" translatable="false">orange</string>
+
+    <string name="pref_mirror_key">mirror</string>
+    <string name="pref_mirror_label">Mirror</string>
+    <string name="pref_mirror_summary">Mirror the text</string>
+    <string name="pref_text_size_label">Font Size</string>
+    <string name="pref_text_size_key">font_size</string>
+    <string name="pref_text_size_summary">Set Font Size</string>
+    <string name="pref_speed_summary">Adjust scrolling speed</string>
+    <string name="pref_speed_key">speed</string>
+    <string name="pref_speed_label">Scrolling speed</string>
+    <string name="pref_font_label">Font</string>
+    <string name="pref_font_key">font</string>
+    <string name="pref_font_summary">Change font</string>
+    <string name="pref_text_color_summary">Set text color</string>
+    <string name="pref_bg_color_summary">Set background color</string>
+
+    <string name="action_add">Add Text</string>
+    <string name="script_title">Text Title</string>
+    <string name="write_script">Type/ Paste Text</string>
+    <string name="button_add">Add</string>
+    <string name="button_discard">Discard</string>
+    <string name="action_play">Play</string>
+    <string name="up">Back</string>
+    <string name="button_play">Play</string>
+    <string name="button_delete">Delete</string>
+    <string name="menu_settings">Settings</string>
+    <string name="play_menu">Play_pause</string>
+    <string name="script_removed_toast">Text removed from Database</string>
+    <string name="add_title_toast">Add Text Title</string>
+    <string name="add_desc_toast">Add Text Description</string>
+    <string name="cannot_remove">Cannot remove default text</string>
+    <string name="ad_unit">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_Id">ca-app-pub-2695368607182445~3155031554</string>
+    <string name="ga_trackingId" translatable="false">UA-123987181-1</string>
+    <string name="appwidget_text">TelePrompter</string>
+    <string name="add_widget">Add widget</string>
+    <string name="play_pause_desc">Play Pause Toggle</string>
+    <string name="script_title_desc">Add Text Title</string>
+    <string name="addScript_desc">Type or Paste text</string>
+    <string name="tracker_action">Action</string>
+    <string name="tracker_share">Share</string>
+    <string name="scripts_tag_main_to_detail">texts</string>
+    <string name="POSX">position_x</string>
+    <string name="POSY">position_y</string>
+    <string name="action_update_widget">update_widget</string>
+    <string name="no_script_available">No Texts Available</string>
+
+</resources>

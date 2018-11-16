@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add_widget"
+        android:orderInCategory="100"
+        android:background="@drawable/touch_selector"
+        app:showAsAction="always"
+        android:title="@string/menu_item_add_widget"/>
+</menu>

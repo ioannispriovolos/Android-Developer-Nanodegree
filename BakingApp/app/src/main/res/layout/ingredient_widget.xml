@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/widget_title_tv"
+            android:text="@string/widget_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="22sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="@dimen/padding_list_item"
+            android:contentDescription="@string/widget_title"
+            android:textStyle="bold"
+            android:divider="@color/secondary_text"
+            android:dividerHeight="1dp"
+            android:textColor="@color/white"
+            android:background="@color/colorPrimary"
+            android:padding="@dimen/activity_vertical_margin" />
+        <ListView
+            android:id="@+id/ingredient_widget_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@color/secondary_text"
+            android:dividerHeight="1dp"
+            android:background="@color/background_reviews" />
+    </LinearLayout>
+    <RelativeLayout
+        android:id="@+id/empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="@string/empty_widget_text"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <ImageView
+            android:alpha="0.3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/place_holder"
+            android:contentDescription="@string/empty_widget_image"/>
+    </RelativeLayout>
+</FrameLayout>
+

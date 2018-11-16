@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4fab5b</color>
+    <color name="colorPrimaryDark">#2F1D1A</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorButtonIngredients">#4fab5b</color>
+
+    <color name="secondary_text">#727272</color>
+    <color name="background_reviews">#E0E0E0</color>
+    <color name="tan_background">#FFFae3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_color">#ffdc78</color>
+</resources>

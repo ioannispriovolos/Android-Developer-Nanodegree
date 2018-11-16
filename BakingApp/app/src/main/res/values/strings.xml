@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="widget_title">BakingApp Ingredients</string>
+    <string name="cake_title_main">Recipes</string>
+    <string name="internet_connection_error">Internet connection error. Please check your internet connection.</string>
+    <string name="data_loading_error">Data loading error.</string>
+
+    <string name="retry">Please try again.</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="cake_image_description">Image of cake</string>
+    <string name="detail_activity_label">Details of recipe</string>
+    <string name="quantity_text">Quantity</string>
+    <string name="step_description">Step Description</string>
+    <string name="step_title">Baking Steps</string>
+    <string name="step_details">Step Details</string>
+    <string name="step_long_description">Step Long Description</string>
+    <string name="no_video">Video Unavailable</string>
+
+    <string name="menu_item_add_widget">Add To Widget</string>
+    <string name="empty_widget_text">No recipes available</string>
+    <string name="empty_widget_image">No recipes available image</string>
+    <string name="button_step_previous">Previous</string>
+    <string name="button_step_next">Next</string>
+    <string name="firstPositionOfSteps">This is the first step.</string>
+    <string name="lastPositionOfSteps">This is the final step.</string>
+    <string name="scrolldown">Please scroll down</string>
+</resources>

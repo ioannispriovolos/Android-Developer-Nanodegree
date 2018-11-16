@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_color_option_labels">
+        <item>@string/pref_color_label_red</item>
+        <item>@string/pref_color_label_blue</item>
+        <item>@string/pref_color_label_green</item>
+        <item>@string/pref_color_label_white</item>
+        <item>@string/pref_color_label_black</item>
+        <item>@string/pref_color_label_yellow</item>
+        <item>@string/pref_color_label_orange</item>
+
+    </array>
+
+    <array name="pref_color_option_values">
+        <item>@string/pref_color_red_value</item>
+        <item>@string/pref_color_blue_value</item>
+        <item>@string/pref_color_green_value</item>
+        <item>@string/pref_color_white_value</item>
+        <item>@string/pref_color_black_value</item>
+        <item>@string/pref_color_yellow_value</item>
+        <item>@string/pref_color_orange_value</item>
+    </array>
+
+    <array name="fonts">
+        <item>Robotto</item>
+        <item>Verdana</item>
+        <item>Champagne</item>
+        <item>Aller</item>
+        <item>Caviar</item>
+        <item>Tinos</item>
+    </array>
+
+    <string-array name="text_size">
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+        <item>40</item>
+        <item>44</item>
+        <item>48</item>
+    </string-array>
+
+    <string-array name="scroll_speed">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+</resources>

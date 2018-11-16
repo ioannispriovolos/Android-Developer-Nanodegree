@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nested_scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/activity_vertical_margin"
+        android:focusableInTouchMode="true">
+        <TextView
+            android:id="@+id/tv_detail_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="40sp"
+            android:gravity="center_horizontal"
+            android:fontFamily="cursive"
+            android:textStyle="bold"
+            android:padding="@dimen/activity_vertical_margin"/>
+            <FrameLayout
+                android:id="@+id/ingredients_container_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="16dp"
+                android:background="#00ffffff" />
+            <TextView
+                android:id="@+id/steps_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/step_title"
+                android:fontFamily="cursive"
+                android:textSize="26sp"
+                android:gravity="center_horizontal"/>
+            <FrameLayout
+                android:id="@+id/steps_list_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+

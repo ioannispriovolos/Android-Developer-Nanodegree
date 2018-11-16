@@ -1,0 +1,12 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">20sp</dimen>
+    <dimen name="detail_body_text_size">14sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_view_resting_state">1dp</dimen>
+    <dimen name="card_view_raised_state">8dp</dimen>
+
+</resources>

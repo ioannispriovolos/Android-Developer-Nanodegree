@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:summary="@string/pref_text_color_summary"
+        android:defaultValue="@string/pref_color_black_value"
+        android:entries="@array/pref_color_option_labels"
+        android:entryValues="@array/pref_color_option_values"
+        android:key="@string/pref_text_color_key"
+        android:title="@string/pref_text_color_label" />
+
+    <ListPreference
+        android:summary="@string/pref_bg_color_summary"
+        android:defaultValue="@string/pref_color_white_value"
+        android:entries="@array/pref_color_option_labels"
+        android:entryValues="@array/pref_color_option_values"
+        android:key="@string/pref_bg_color_key"
+        android:title="@string/pref_bg_color_label" />
+
+    <CheckBoxPreference
+        android:defaultValue="@bool/pref_mirror_default"
+        android:key="@string/pref_mirror_key"
+        android:summary="@string/pref_mirror_summary"
+        android:title="@string/pref_mirror_label" />
+
+    <ListPreference
+        android:summary="@string/pref_font_summary"
+        android:entries="@array/fonts"
+        android:entryValues="@array/fonts"
+        android:key="@string/pref_font_key"
+        android:title="@string/pref_font_label" />
+
+    <ListPreference
+        android:defaultValue="16"
+        android:entries="@array/text_size"
+        android:entryValues="@array/text_size"
+        android:key="@string/pref_text_size_key"
+        android:summary="@string/pref_text_size_summary"
+        android:title="@string/pref_text_size_label" />
+
+    <ListPreference
+        android:defaultValue="10"
+        android:entries="@array/scroll_speed"
+        android:entryValues="@array/scroll_speed"
+        android:key="@string/pref_speed_key"
+        android:summary="@string/pref_speed_summary"
+        android:title="@string/pref_speed_label" />
+</PreferenceScreen>

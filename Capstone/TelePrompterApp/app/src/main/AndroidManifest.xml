@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="capstone.ioannispriovolos.udacity.teleprompter">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".AnalyticsActivity"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/ActivityTheme">
+        <activity android:name=".MainActivity"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name=".TextProvider"
+            android:authorities="capstone.ioannispriovolos.udacity.teleprompter"
+            android:exported="false"
+            android:syncable="true" />
+
+        <receiver android:name=".WidgetTelePrompt">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/tele_widget_info" />
+        </receiver>
+
+        <service  android:name=".WidgetService"/>
+
+        <activity
+            android:name=".TextEntry"
+            android:label="Add Text" />
+        <activity android:name=".DetailActivity"
+            android:launchMode="singleTop"/>
+        <activity android:name=".TelePromptActivity" />
+        <activity android:name=".SettingsActivity"
+            android:parentActivityName=".DetailActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".DetailActivity" />
+        </activity>
+    </application>
+
+</manifest>

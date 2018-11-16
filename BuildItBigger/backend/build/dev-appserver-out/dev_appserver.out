@@ -1,0 +1,36 @@
+Warning: Google App Engine Java 7 runtime is deprecated.
+Warning: See https://cloud.google.com/appengine/docs/deprecations/java7
+Jun 12, 2018 11:09:29 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+INFO: Overwriting system property key 'java.util.logging.config.file', value '/Users/Motown/Downloads/google-cloud-sdk/platform/google_appengine/google/appengine/tools/java/config/sdk/logging.properties' with value 'WEB-INF/logging.properties' from '/Users/Motown/Documents/My education/Udacity/Android Developer Nanodegree/BuildItBigger/backend/build/exploded-backend/WEB-INF/appengine-web.xml'
+Jun 12, 2018 11:09:31 PM com.google.apphosting.utils.jetty.JettyLogger info
+INFO: Logging to JettyLogger(null) via com.google.apphosting.utils.jetty.JettyLogger
+Jun 12, 2018 8:09:34 PM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
+WARNING: Your working directory, (/Users/Motown/Documents/My education/Udacity/Android Developer Nanodegree/BuildItBigger/backend) is not equal to your 
+web application root (/Users/Motown/Documents/My education/Udacity/Android Developer Nanodegree/BuildItBigger/backend/build/exploded-backend)
+You will not be able to access files from your working directory on the production server.
+
+Jun 12, 2018 8:09:35 PM com.google.apphosting.utils.jetty.JettyLogger info
+INFO: jetty-6.1.x
+Jun 12, 2018 8:09:39 PM com.google.apphosting.utils.jetty.JettyLogger info
+INFO: Started SelectChannelConnector@localhost:8080
+Jun 12, 2018 8:09:39 PM com.google.appengine.tools.development.AbstractModule startup
+INFO: Module instance default is running at http://localhost:8080/
+Jun 12, 2018 8:09:39 PM com.google.appengine.tools.development.AbstractModule startup
+INFO: The admin console is running at http://localhost:8080/_ah/admin
+Jun 12, 2018 11:09:39 PM com.google.appengine.tools.development.DevAppServerImpl doStart
+INFO: Dev App Server is now running
+Jun 12, 2018 11:09:46 PM com.google.appengine.repackaged.com.google.protobuf.UnsafeUtil supportsUnsafeByteBufferOperations
+WARNING: platform method missing - proto runtime falling back to safer methods: java.security.AccessControlException: access denied ("java.lang.RuntimePermission" "accessClassInPackage.sun.misc")
+Jun 12, 2018 11:09:46 PM com.google.appengine.repackaged.com.google.protobuf.UnsafeUtil supportsUnsafeArrayOperations
+WARNING: platform method missing - proto runtime falling back to safer methods: java.security.AccessControlException: access denied ("java.lang.RuntimePermission" "accessClassInPackage.sun.misc")
+Jun 12, 2018 11:14:30 PM com.google.appengine.api.datastore.dev.LocalDatastoreService init
+INFO: Local Datastore initialized: 
+	Type: High Replication
+	Storage: /Users/Motown/Documents/My education/Udacity/Android Developer Nanodegree/BuildItBigger/backend/build/exploded-backend/WEB-INF/appengine-generated/local_db.bin
+Jun 12, 2018 11:14:30 PM com.google.appengine.api.datastore.dev.LocalDatastoreService load
+INFO: The backing store, /Users/Motown/Documents/My education/Udacity/Android Developer Nanodegree/BuildItBigger/backend/build/exploded-backend/WEB-INF/appengine-generated/local_db.bin, does not exist. It will be created.
+Jun 12, 2018 11:15:44 PM com.google.appengine.tools.development.AbstractModule shutdown
+INFO: Shutting down module instance default
+Shutting down.
+Jun 12, 2018 11:15:44 PM com.google.appengine.api.datastore.dev.LocalDatastoreService cleanupActiveServices
+INFO: scheduler shutting down.

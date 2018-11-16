@@ -1,0 +1,76 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/detail_main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/detail_scroll"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginBottom="60dp">
+
+        <FrameLayout
+            android:layout_width="@dimen/cardView_maxWidth"
+            android:layout_margin="@dimen/script_body_margin"
+            android:layout_marginBottom="16dp"
+            android:layout_height="wrap_content"
+            android:background="@color/card_custom_background"
+            android:elevation="@dimen/cardview_default_elevation">
+            <TextView
+                android:id="@+id/detail_script_body"
+                style="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/detail_inner_horiz_margin"
+                android:layout_marginRight="@dimen/detail_inner_horiz_margin"
+                android:paddingBottom="@dimen/detail_body_bottom_margin"
+                android:textColorLink="@color/colorAccent"
+                android:textSize="@dimen/detail_body_text_size"
+                android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier" />
+
+        </FrameLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/bottom_height"
+        android:orientation="horizontal"
+        android:layout_gravity="bottom|center_horizontal">
+
+        <com.google.android.gms.ads.AdView
+            android:layout_gravity="bottom|start"
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/ad_unit">
+        </com.google.android.gms.ads.AdView>
+
+            <Button
+                android:layout_height="50dp"
+                android:layout_width="@dimen/button_width"
+                android:id="@+id/playButton"
+                android:layout_toEndOf="@id/adView"
+                android:layout_alignBottom="@id/adView"
+                android:text="@string/button_play"
+                android:background="@color/colorPrimary"
+                android:layout_margin="8dp"
+                android:contentDescription="@string/action_play"
+                android:textColor="@color/material_color_white"/>
+
+            <Button
+                android:layout_toEndOf="@id/playButton"
+                android:layout_alignBottom="@id/adView"
+                android:layout_height="50dp"
+                android:layout_width="@dimen/button_width"
+                android:id="@+id/removeButton"
+                android:layout_margin="8dp"
+                android:text="@string/button_delete"
+                android:background="@color/colorPrimary"
+                android:contentDescription="@string/button_delete"
+                android:textColor="@color/material_color_white"/>
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

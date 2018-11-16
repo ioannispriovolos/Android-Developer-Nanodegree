@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ioannispriovolos.android.mylibrary" >
+
+    <application
+        android:allowBackup="false"
+        android:label="@string/app_name">
+        <activity android:name=".LibraryActivity">
+
+        </activity>
+    </application>
+</manifest>

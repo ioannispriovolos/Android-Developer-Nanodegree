@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="capstone.ioannispriovolos.udacity.teleprompter.TelePromptActivity">
+
+    <ScrollView
+        android:id="@+id/play_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/play_script"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/script_body_margin"
+            android:textColorLink="@color/colorAccent"
+            android:paddingBottom="8dp"
+            android:textSize="@dimen/detail_body_text_size"/>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="title_movie_list">Popular Movies 2</string>
+    <string name="user_rating">%1$s/10</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="title_no_info">No movies</string>
+    <string name="text_no_info">Please check your internet connection</string>
+    <string name="release_date_no_info">Unavailable release date</string>
+    <string name="watch_trailer">Watch trailer</string>
+    <string name="favorites">Favorites</string>
+    <string name="title_no_info_favorites">No movies</string>
+    <string name="text_no_info_favorites">You can add your favorite movies here!</string>
+    <string name="share_trailer">Share trailer</string>
+
+    <string name="add_favorite">Add Favorite</string>
+    <string name="remove_favorite">Remove Favorite</string>
+</resources>

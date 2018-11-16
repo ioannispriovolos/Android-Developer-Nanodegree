@@ -1,0 +1,71 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/detail_main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <ScrollView
+            android:id="@+id/detail_scroll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="120dp">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_margin="@dimen/script_body_margin"
+                android:layout_marginBottom="16dp"
+                android:layout_height="wrap_content"
+                android:background="@color/card_custom_background"
+                android:elevation="@dimen/cardview_default_elevation">
+            <TextView
+                android:id="@+id/detail_script_body"
+                style="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/detail_inner_horiz_margin"
+                android:layout_marginRight="@dimen/detail_inner_horiz_margin"
+                android:paddingBottom="@dimen/detail_body_bottom_margin"
+                android:textColorLink="@color/colorAccent"
+                android:textSize="@dimen/detail_body_text_size"
+                android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier" />
+            </FrameLayout>
+        </ScrollView>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="50dp">
+
+        <TableRow>
+                <Button
+                    android:id="@+id/playButton"
+                    android:layout_weight="1"
+                    android:text="@string/button_play"
+                    android:background="@color/colorPrimary"
+                    android:layout_margin="8dp"
+                    android:contentDescription="@string/action_play"
+                    android:textColor="@color/material_color_white"/>
+
+                <Button
+                    android:id="@+id/removeButton"
+                    android:layout_weight="1"
+                    android:layout_margin="8dp"
+                    android:text="@string/button_delete"
+                    android:background="@color/colorPrimary"
+                    android:contentDescription="@string/button_delete"
+                    android:textColor="@color/material_color_white"/>
+        </TableRow>
+    </TableLayout>
+
+    <com.google.android.gms.ads.AdView
+        android:layout_gravity="bottom|center_horizontal"
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/ad_unit">
+    </com.google.android.gms.ads.AdView>
+</android.support.design.widget.CoordinatorLayout>

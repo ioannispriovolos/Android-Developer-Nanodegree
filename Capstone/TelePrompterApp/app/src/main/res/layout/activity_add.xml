@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    android:layout_margin="8dp"
+    tools:context="capstone.ioannispriovolos.udacity.teleprompter.TextEntry">
+
+    <EditText
+        android:id="@+id/addTitle"
+        android:maxLength="22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/script_title"/>
+
+    <ScrollView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+    <EditText
+        android:id="@+id/addScript"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/write_script" />
+    </ScrollView>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="center">
+
+        <TableRow>
+
+        <Button
+            android:id="@+id/addButton"
+            android:layout_weight="1"
+            android:text="@string/button_add"
+            android:background="@color/colorPrimary"
+            android:layout_margin="8dp"
+            android:contentDescription="@string/button_add"
+            android:textColor="@color/material_color_white"/>
+
+            <Button
+                android:id="@+id/discardButton"
+                android:contentDescription="@string/button_discard"
+                android:layout_weight="1"
+                android:layout_margin="8dp"
+                android:text="@string/button_discard"
+                android:background="@color/colorPrimary"
+                android:textColor="@color/material_color_white"/>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>
