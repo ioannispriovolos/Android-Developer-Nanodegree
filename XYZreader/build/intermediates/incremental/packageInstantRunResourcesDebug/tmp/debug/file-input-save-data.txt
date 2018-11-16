@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Nov 16 18:40:03 EET 2018
+0.baseType=DIRECTORY
+0.base=/iCloud away/My education/Udacity/Android Developer Nanodegree/Github/XYZreader/XYZReader/build/intermediates/assets/debug
+0.path=Rosario-Regular.ttf
+0.set=ASSET
+count=1

@@ -1,0 +1,4 @@
+#Fri Nov 16 20:51:17 EET 2018
+base.0=/iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

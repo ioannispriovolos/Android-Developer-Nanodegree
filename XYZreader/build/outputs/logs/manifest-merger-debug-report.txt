@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [com.android.support:support-v13:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/916356ec17a9ce8d9f7d905d980c0675/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e5ec5ab7d3afc7b8094e72a944690c6d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0a563c733907fbd3fab7f6a69876a18f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/ea1290224d0328566e9a0e59530d1980/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c8dcd5ec2d237c47ee7d49b7ff0aea86/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/bde6be047140473ae8f175a07116349b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/7acad2fbc3be90bd13a2d33d8c8178c0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/3ee55ccfa87cbfeacb17f19fc057a318/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5ee4ed96756f57140dea3e80da73f8d4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/84971d7abde05bf1fb1f42ec976737c7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/cd956cba9bdb08a68089a950e65ac09d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e20a0a2e665a7de810505e10ae912b6e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/87b09984162f5d0985f42d1fd57a5cb6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/ea7d32b4eba11bae040f4a1a65897c64/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/3b28e50287283ce9707fe2b21faf9408/AndroidManifest.xml:17:1-31:12
+INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:2:5-36
+	android:versionName
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
+MERGED from [com.android.support:support-v13:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/916356ec17a9ce8d9f7d905d980c0675/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/916356ec17a9ce8d9f7d905d980c0675/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e5ec5ab7d3afc7b8094e72a944690c6d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e5ec5ab7d3afc7b8094e72a944690c6d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0a563c733907fbd3fab7f6a69876a18f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0a563c733907fbd3fab7f6a69876a18f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/ea1290224d0328566e9a0e59530d1980/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/ea1290224d0328566e9a0e59530d1980/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c8dcd5ec2d237c47ee7d49b7ff0aea86/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c8dcd5ec2d237c47ee7d49b7ff0aea86/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/bde6be047140473ae8f175a07116349b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/bde6be047140473ae8f175a07116349b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/7acad2fbc3be90bd13a2d33d8c8178c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/7acad2fbc3be90bd13a2d33d8c8178c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/3ee55ccfa87cbfeacb17f19fc057a318/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/3ee55ccfa87cbfeacb17f19fc057a318/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5ee4ed96756f57140dea3e80da73f8d4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5ee4ed96756f57140dea3e80da73f8d4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/84971d7abde05bf1fb1f42ec976737c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/84971d7abde05bf1fb1f42ec976737c7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/cd956cba9bdb08a68089a950e65ac09d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/cd956cba9bdb08a68089a950e65ac09d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e20a0a2e665a7de810505e10ae912b6e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e20a0a2e665a7de810505e10ae912b6e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/87b09984162f5d0985f42d1fd57a5cb6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/87b09984162f5d0985f42d1fd57a5cb6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/ea7d32b4eba11bae040f4a1a65897c64/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/ea7d32b4eba11bae040f4a1a65897c64/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/3b28e50287283ce9707fe2b21faf9408/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/3b28e50287283ce9707fe2b21faf9408/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:15:9-43
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:18:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
+	android:parentActivityName
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:27:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.VIEW
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.DEFAULT
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:31:27-73
+data
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:32:17-100
+	android:mimeType
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:32:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
+	android:value
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:36:17-56
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:35:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
+	android:exported
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:39:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
+	android:authorities
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:43:13-56
+	android:exported
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml:42:19-53
+uses-sdk
+INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/916356ec17a9ce8d9f7d905d980c0675/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/916356ec17a9ce8d9f7d905d980c0675/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e5ec5ab7d3afc7b8094e72a944690c6d/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e5ec5ab7d3afc7b8094e72a944690c6d/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0a563c733907fbd3fab7f6a69876a18f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0a563c733907fbd3fab7f6a69876a18f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/ea1290224d0328566e9a0e59530d1980/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/ea1290224d0328566e9a0e59530d1980/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c8dcd5ec2d237c47ee7d49b7ff0aea86/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c8dcd5ec2d237c47ee7d49b7ff0aea86/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:palette-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/bde6be047140473ae8f175a07116349b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/bde6be047140473ae8f175a07116349b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/7acad2fbc3be90bd13a2d33d8c8178c0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/7acad2fbc3be90bd13a2d33d8c8178c0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/3ee55ccfa87cbfeacb17f19fc057a318/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/3ee55ccfa87cbfeacb17f19fc057a318/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5ee4ed96756f57140dea3e80da73f8d4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5ee4ed96756f57140dea3e80da73f8d4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/84971d7abde05bf1fb1f42ec976737c7/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/84971d7abde05bf1fb1f42ec976737c7/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/cd956cba9bdb08a68089a950e65ac09d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/cd956cba9bdb08a68089a950e65ac09d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e20a0a2e665a7de810505e10ae912b6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e20a0a2e665a7de810505e10ae912b6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/87b09984162f5d0985f42d1fd57a5cb6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/87b09984162f5d0985f42d1fd57a5cb6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/ea7d32b4eba11bae040f4a1a65897c64/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/ea7d32b4eba11bae040f4a1a65897c64/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/3b28e50287283ce9707fe2b21faf9408/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/3b28e50287283ce9707fe2b21faf9408/AndroidManifest.xml:21:5-23:58
+INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/916356ec17a9ce8d9f7d905d980c0675/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /iCloud away/My education/Udacity/Android Developer Nanodegree/new/XYZReader/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/916356ec17a9ce8d9f7d905d980c0675/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e5ec5ab7d3afc7b8094e72a944690c6d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/e5ec5ab7d3afc7b8094e72a944690c6d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0a563c733907fbd3fab7f6a69876a18f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/0a563c733907fbd3fab7f6a69876a18f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/ea1290224d0328566e9a0e59530d1980/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/ea1290224d0328566e9a0e59530d1980/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c8dcd5ec2d237c47ee7d49b7ff0aea86/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/c8dcd5ec2d237c47ee7d49b7ff0aea86/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/bde6be047140473ae8f175a07116349b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/palette-v7-25.4.0.aar/bde6be047140473ae8f175a07116349b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/7acad2fbc3be90bd13a2d33d8c8178c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/7acad2fbc3be90bd13a2d33d8c8178c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/3ee55ccfa87cbfeacb17f19fc057a318/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/3ee55ccfa87cbfeacb17f19fc057a318/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5ee4ed96756f57140dea3e80da73f8d4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/5ee4ed96756f57140dea3e80da73f8d4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/84971d7abde05bf1fb1f42ec976737c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/84971d7abde05bf1fb1f42ec976737c7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/cd956cba9bdb08a68089a950e65ac09d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/cd956cba9bdb08a68089a950e65ac09d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e20a0a2e665a7de810505e10ae912b6e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/e20a0a2e665a7de810505e10ae912b6e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/87b09984162f5d0985f42d1fd57a5cb6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/87b09984162f5d0985f42d1fd57a5cb6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/ea7d32b4eba11bae040f4a1a65897c64/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/ea7d32b4eba11bae040f4a1a65897c64/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/3b28e50287283ce9707fe2b21faf9408/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/3b28e50287283ce9707fe2b21faf9408/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/916356ec17a9ce8d9f7d905d980c0675/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:25.4.0] /Users/Motown/.gradle/caches/transforms-1/files-1.1/support-v13-25.4.0.aar/916356ec17a9ce8d9f7d905d980c0675/AndroidManifest.xml:27:13-51
