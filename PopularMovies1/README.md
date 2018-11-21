@@ -1,3 +1,5 @@
+## Popular Movies, Stage 1
+
 ### Common Project Requirements
 
 - [x] App is written solely in the Java Programming Language.
