@@ -42,8 +42,3 @@
 - [x] Data is updated whenever the user favorites or unfavorites a movie. No other persistence libraries are used.
 
 - [x] When the "favorites" setting option is selected, the main view displays the entire favorites collection based on movie ids stored in the database.
-
-### Android Architecture Components
-- [x] If Room is used, database is not re-queried unnecessarily. LiveData is used to observe changes in the database and update the UI accordingly.
-
-- [x] If Room is used, database is not re-queried unnecessarily after rotation. Cached LiveData from ViewModel is used instead.
